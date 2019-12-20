@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fbc660b8-0656-40a0-b0e8-d5707d068c16" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/background.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/php.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,6 +35,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -55,16 +59,17 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/H7" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/img" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Xampp\htdocs\Beginnerscursus PHP\img" />
       <recent name="D:\Xampp\htdocs\Beginnerscursus PHP\H7" />
       <recent name="D:\Xampp\htdocs\Beginnerscursus PHP\H6" />
       <recent name="D:\Xampp\htdocs\Beginnerscursus PHP\H5" />
       <recent name="D:\Xampp\htdocs\Beginnerscursus PHP\H4" />
-      <recent name="D:\Xampp\htdocs\Beginnerscursus PHP\H3" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Xampp\htdocs\Beginnerscursus PHP\H3" />
@@ -94,7 +99,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1576840516731</updated>
-      <workItem from="1576840517986" duration="10411000" />
+      <workItem from="1576840517986" duration="11396000" />
     </task>
     <task id="LOCAL-00001" summary="Updated version">
       <created>1576849591241</created>
