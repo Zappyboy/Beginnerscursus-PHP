@@ -2,21 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fbc660b8-0656-40a0-b0e8-d5707d068c16" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Challenges/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/H2/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/H3/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/H4/Opdr1.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/H4/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/H5/Opdr1.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/H5/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/H6/Opdr1.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/H6/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/H7/Opdr1.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/H7/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/H1/Opdr1.php" beforeDir="false" afterPath="$PROJECT_DIR$/H1/Opdr1.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -108,7 +94,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1576840516731</updated>
-      <workItem from="1576840517986" duration="10163000" />
+      <workItem from="1576840517986" duration="10411000" />
     </task>
     <task id="LOCAL-00001" summary="Updated version">
       <created>1576849591241</created>
