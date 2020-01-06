@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fbc660b8-0656-40a0-b0e8-d5707d068c16" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/img/background.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/php.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -99,7 +96,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1576840516731</updated>
-      <workItem from="1576840517986" duration="11396000" />
+      <workItem from="1576840517986" duration="13424000" />
+      <workItem from="1577275425887" duration="12000" />
     </task>
     <task id="LOCAL-00001" summary="Updated version">
       <created>1576849591241</created>
@@ -152,6 +150,10 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="274" y="88" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1576847693424" />
+    <state x="465" y="258" key="com.intellij.ide.util.TipDialog" timestamp="1577275426039">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="465" y="258" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1577275426039" />
     <state x="578" y="350" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1576851503266">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
